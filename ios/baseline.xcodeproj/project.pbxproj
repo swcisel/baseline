@@ -43,7 +43,6 @@
 		378F9DC7221061D100DAF07F /* libAppCenterReactNativeAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37920F3A220F0D82001E3F47 /* libAppCenterReactNativeAnalytics.a */; };
 		378F9DC8221061D100DAF07F /* libAppCenterReactNativeCrashes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37920F3D220F0D82001E3F47 /* libAppCenterReactNativeCrashes.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		886A1B9B2A3D8BD4642D04E1 /* libPods-baseline.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F235CB5D366CF7B0B19473E /* libPods-baseline.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
 		ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED2971642150620600B7C4FE /* JavaScriptCore.framework */; };
@@ -429,7 +428,6 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				886A1B9B2A3D8BD4642D04E1 /* libPods-baseline.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
